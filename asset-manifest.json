@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/three_fibre/static/css/main.ff3769b5.css",
+    "main.js": "/three_fibre/static/js/main.597838a2.js",
+    "static/js/787.81d8f8e5.chunk.js": "/three_fibre/static/js/787.81d8f8e5.chunk.js",
+    "static/media/Flag_of_Bangladesh.svg.png": "/three_fibre/static/media/Flag_of_Bangladesh.svg.3cf3be4e6a328acd903f.png",
+    "index.html": "/three_fibre/index.html",
+    "main.ff3769b5.css.map": "/three_fibre/static/css/main.ff3769b5.css.map",
+    "main.597838a2.js.map": "/three_fibre/static/js/main.597838a2.js.map",
+    "787.81d8f8e5.chunk.js.map": "/three_fibre/static/js/787.81d8f8e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff3769b5.css",
+    "static/js/main.597838a2.js"
+  ]
+}
